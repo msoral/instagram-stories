@@ -2,9 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:src/app/pages/story/story_view.dart';
 
-
-import 'data.dart';
-
 void main() {
   runApp(const MyApp());
 }
@@ -22,7 +19,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: StoryView(stories),
+      home: StoryView(),
     );
   }
 }

@@ -2,15 +2,17 @@
 
 Instagram clone for learning purposes
 
-## Getting Started
+## Notes
 
-This project is a starting point for a Flutter application.
+There are late initialization exceptions as I haven't fully figured out how to implement the bloc pattern.
+I am submitting this version as well to show my coding style.  
+I will complete this version as soon as I can find the time. I didn't want to prolong 
+the process any longer because of my busy schedule.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## TODO:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Finish bloc implementation, figure out how to handle animations with blocs.
+- Finish implementing the cache.
+- Include watch times of stories for analytics.
+- Add a configurable TTL for cache lifetime.

@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://images.unsplash.com/photo-1534103362078-d07e750bd0c4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+    "media": "image",
+    "duration": 5,
+    "creatorId": 1
+  },
+  {
+    "url": "https://media.giphy.com/media/moyzrwjUIkdNe/giphy.gif",
+    "media": "video",
+    "duration": 7,
+    "creatorId": 1
+  },
+  {
+    "url": "https://static.videezy.com/system/resources/previews/000/005/529/original/Reaviling_Sjusj%C3%B8en_Ski_Senter.mp4",
+    "media": "video",
+    "duration": 0,
+    "creatorId": 1
+  },
+  {
+    "url": "https://images.unsplash.com/photo-1531694611353-d4758f86fa6d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=564&q=80",
+    "media": "image",
+    "duration": 5,
+    "creatorId": 2
+  },
+  {
+    "url": "https://static.videezy.com/system/resources/previews/000/007/536/original/rockybeach.mp4",
+    "media": "image",
+    "duration": 0,
+    "creatorId": 2
+  },
+  {
+    "url": "https://media2.giphy.com/media/M8PxVICV5KlezP1pGE/giphy.gif",
+    "media": "video",
+    "duration": 8,
+    "creatorId": 2
+  }
+]

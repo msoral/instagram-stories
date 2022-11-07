@@ -6,7 +6,8 @@ class Constants {
   factory Constants() => _instance;
   Constants._internal();
 
-  static const String rootConfigPath = "../../config.yaml";
-  static const String rootDataPath = "../../data.json";
-  static const String resourcesPath = "../resources/";
+  static const String projectRoot = "../..";
+  static const String rootConfigPath = "$projectRoot/config.yaml";
+  static const String rootDataPath = "$projectRoot/data/";
+  static const String resourcesPath = "$projectRoot/resources/";
 }
